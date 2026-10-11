@@ -56,7 +56,7 @@ Use this structure. Keep it tight; his videos are three to four minutes.
 **Recap:** one sentence with the three changes that move the score.
 ```
 
-Scoring calibration from the series: 10 = clear in five seconds, single CTA, shows the product, every click works, micro-details communicate (lanatools.sh, joinlearnspace.com). 8 = clear and clean with duplicate CTAs or 20% excess copy (stature.finance, operatoruplift.com). 5–6 = good design, unclear what it is or how it differs (lid.pro, aetelier.xyz). Below 5 = information overload, dashboard-as-landing, login wall before anything is shown (stonkpile.xyz, gtmmaxing.com). These are calibration anchors, not answers: if the page in front of you is one of them, review it fresh and score what you see today; pages change.
+Scoring calibration from the series: 10 = clear in five seconds, single CTA, shows the product, every click works, micro-details communicate. 8 = clear and clean but with duplicate CTAs or about 20% excess copy. 5–6 = good design, unclear what it is or how it differs. Below 5 = information overload, dashboard-as-landing, or a login wall before anything is shown. Score what is on the page today; never carry over a verdict from memory, because pages change.
 
 Voice: direct, warm, a little blunt, never cruel. He says "unslop it", "my friend", "I'm not the target audience, but", and he admits what he does not understand instead of bluffing. He never judges the tech, only the page.
 
@@ -103,5 +103,6 @@ Each line is something he called out in at least two reviews. Treat a "no" as a 
 ## References
 
 - `references/rulebook.md` — every rule with the near-verbatim quotes and the sites they came from. Read it when you need to justify a finding or weigh two fixes.
-- `references/reviews-digest.md` — one paragraph per reviewed site, grouped by how well it scored. Read it for calibration before scoring, or to find a comparable example for the page in front of you.
-- `references/sources.md` — the 32 post URLs and the reviewed sites, so you can point a user at the original video.
+- `references/archetypes.md` — the 32 reviews condensed into anonymised product archetypes, grouped by how they scored, with what earned the score. Read it for calibration before scoring, or to find the archetype closest to the page in front of you.
+
+Source: Gui Bibeau's review series on X (@GuiBibeau), October 2026. Pages are deliberately not named anywhere in this skill because they change; judge only what is in front of you.

@@ -12,9 +12,8 @@ The thesis behind every review: AI made good design cheap, so design no longer d
 skills/landing-page-review/
 ├── SKILL.md                      the method: review mode, build mode, checklist
 └── references/
-    ├── rulebook.md               11 themes, each rule with near-verbatim quotes and the sites they came from
-    ├── reviews-digest.md         one paragraph per reviewed site, grouped by verdict
-    └── sources.md                the 32 posts and the sites reviewed
+    ├── rulebook.md               11 themes, each rule backed by near-verbatim quotes from the videos
+    └── archetypes.md             the 32 reviews condensed into anonymised product archetypes, grouped by score
 ```
 
 ## Install
@@ -90,7 +89,7 @@ The full list, with the reasoning behind each line, is in `SKILL.md` and `refere
 
 ## Attribution
 
-The method and every rule come from Gui Bibeau's public reviews, linked in `references/sources.md`. Quotes are near-verbatim from the videos. He is not affiliated with this repo. If you build something with it, the advice he gives at the end of most reviews applies: simplify, show the product, earn the trust.
+The method and every rule come from Gui Bibeau's public review series on X ([@GuiBibeau](https://x.com/GuiBibeau), October 2026). Quotes are near-verbatim from the videos. The reviewed pages are deliberately not named anywhere in the skill: they change, and a verdict from one month should not anchor a review in another. He is not affiliated with this repo. If you build something with it, the advice he gives at the end of most reviews applies: simplify, show the product, earn the trust.
 
 ## License
 
